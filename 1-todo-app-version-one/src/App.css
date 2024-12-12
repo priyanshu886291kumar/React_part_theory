@@ -1,0 +1,26 @@
+.app-title {
+  font-weight: 700;
+  font-size: 45px;
+  margin: 10px;
+  margin-bottom: 20px;
+}
+
+input{
+  width: 80%;
+}
+
+
+.items-container{
+   text-align: center;
+
+}
+
+.kg-button{
+  width: 110px;
+}
+
+.kg-row{
+   margin: 10px 8px;
+}
+
+
